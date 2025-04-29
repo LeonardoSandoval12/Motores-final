@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Repos\\IAue motores\\final\\Motores-final\\MotoriaFinal\\Intermediate\\Source\\MotoriaFinal.Build.cs",
+		"C:\\Repos\\IAue motores\\final\\Motores-final\\MotoriaFinal\\Intermediate\\Source\\MotoriaFinal.Target.cs",
+		"C:\\Repos\\IAue motores\\final\\Motores-final\\MotoriaFinal\\Intermediate\\Source\\MotoriaFinalClient.Target.cs",
+		"C:\\Repos\\IAue motores\\final\\Motores-final\\MotoriaFinal\\Intermediate\\Source\\MotoriaFinalEditor.Target.cs",
+		"C:\\Repos\\IAue motores\\final\\Motores-final\\MotoriaFinal\\Intermediate\\Source\\MotoriaFinalServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

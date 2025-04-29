@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MotoriaFinal.cpp.obj": [
+			"MotoriaFinal.cpp.obj"
+		]
+	}
+}
