@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/NPC/bp_npc.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/NPC/AI_npc.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KQ/CZQ0FD0Y7WCNSU8GBIUBZ1.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/IG/A6BPFLTXIPTST74TDR8BC1.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1A/MT80JEDNB4BDSM2R4BAJX6.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/NPC/BP_B_NPBC.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/NPC/BB_NPC.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/NPC/Tasks/BTTask_MovementRandomLocation.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/UtopianCity/Maps/UtopianCityDemoMap.umap",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/NPC/NPC/bp_npc.uasset",
+				"C:/Repos/IAue motores/final/Motores-final/MotoriaFinal/Content/NPC/NPC/bp_npcrandom.uasset"
 			]
 		}
 	]
